@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FW5DyWT6TVuYRx3bUy64YUIl+9U9emIBhq7VzCzs3bg=",
+  "Source": "sqlFinalAPI",
+  "BasePath": "_content/sqlFinalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
